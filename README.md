@@ -10,3 +10,13 @@ sudo apt-get install clang
 make 
 sls # It's working
 ```
+### With out clang
+```
+git clone https://github.com/solindekdev/sls
+cd sls
+```
+Now change the defualt compiler, edit `Makefile` and change variable `COMPILER_CPP` to `g++` or other compiler you wan't to use
+```
+make
+sls # It's working
+```
