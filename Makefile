@@ -1,3 +1,8 @@
+#
+#	SLS Copyright (C) 2022 SolindekDev
+#	GNU General Public License
+#
+
 COMPILER_CPP = clang++ # Deafult clang++ but you can set g++
 
 all: c add_to_bin
