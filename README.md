@@ -1,5 +1,7 @@
 # sls
 `sls` is a new beautiful and light alternative to built in `ls` command in linux
+# Screenshot
+![](https://raw.githubusercontent.com/SolindekDev/sls/main/screenshot.png)
 # Build
 To get it on you're computer you need to compile it for you self! Don't be mad it's very very easy.
 ### With clang
