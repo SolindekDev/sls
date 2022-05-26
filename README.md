@@ -22,3 +22,5 @@ Now change the defualt compiler, edit `Makefile` and change variable `COMPILER_C
 make
 sls # It's working
 ```
+# Supported operating systems
+For now sls is compilable only for Linux.
